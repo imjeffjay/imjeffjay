@@ -27,5 +27,5 @@ I am a **Data Scientist** and **Analytics Professional** with a background in **
 
 ---
 
-- **Thank you for visiting!**
+**Thank you for visiting!**
 
