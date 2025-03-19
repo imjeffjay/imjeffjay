@@ -28,7 +28,7 @@
 - **Certified Management Accountant (CMA)**
 - **B.A. Business Economics & Accounting** – University of California, Santa Barbara
 
-##### **Get in Touch**
+#### Get in Touch
 - **LinkedIn**: (https://www.linkedin.com/in/jeff-jay/))  
 - **Email**: imjeffjay@gmail.com  
 
