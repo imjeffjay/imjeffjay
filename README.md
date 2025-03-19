@@ -12,9 +12,7 @@
 #### Expertise
 - **Forecasting & Financial Modeling:** Advanced predictive techniques for revenue, expense, and KPI forecasting.
 - **Data Engineering & Pipelines:** Scalable workflows for data processing, transformation, and integration into ML models.
-- **Machine Learning:** Predictive modeling, anomaly detection, and optimization for business and healthcare applications.
 - **Data Visualization:** Insightful reporting with Tableau, Power BI, Matplotlib, and SAP Analytics Cloud.
-- **Healthcare Informatics:** Data-driven strategies for improving patient outcomes, resource allocation, and cost reduction.
 
 #### Technical Skills
 - **Programming & Analysis:** Python, SQL, R, VBA
