@@ -23,12 +23,12 @@
 - **Tools & Platforms:** Jupyter, VS Code, Conda, Git
 - **Enterprise Systems:** SAP (FICO, BO), Salesforce
 
-## Education & Certifications
+#### Education & Certifications
 - **M.S. Data Science** – Loyola University Maryland
 - **Certified Management Accountant (CMA)**
 - **B.A. Business Economics & Accounting** – University of California, Santa Barbara
 
-### **Get in Touch**
+##### **Get in Touch**
 - **LinkedIn**: (https://www.linkedin.com/in/jeff-jay/))  
 - **Email**: imjeffjay@gmail.com  
 
