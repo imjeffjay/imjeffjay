@@ -26,7 +26,7 @@
 ---
 
 ### **Get in Touch**
-- **LinkedIn**: (https://www.linkedin.com/in/jeff-jay-a0054732/))  
+- **LinkedIn**: (https://www.linkedin.com/in/jeff-jay/))  
 - **Email**: imjeffjay@gmail.com  
 
 ---
