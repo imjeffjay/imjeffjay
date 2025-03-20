@@ -4,7 +4,7 @@
 
 ### Background
 ---
-*Data scientist and analytics professional with a strong background in business intelligence, reporting, and data visualization, now expanding into machine learning, statistical modeling, and AI-driven automation. Experienced in financial modeling, SAP analytics, and business systems, with growing expertise in ML model development, statistics, and deployment pipelines. Holding an M.S. in Data Science, I’m focused on bridging analytics and data science to drive better decision-making and automation.*
+*Data scientist and analytics professional with a background in business intelligence, financial modeling, and SAP analytics. Now focused on machine learning, statistical modeling, and deployment pipelines to drive automation and better decision-making. Holding an M.S. in Data Science, I specialize in bridging analytics and data science to deliver impactful insights.*
 
 ---
 ### Professional Profile
