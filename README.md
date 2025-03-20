@@ -4,22 +4,24 @@
 
 ### Background
 ---
-*Data scientist and analytics professional with extensive experience in data-driven projects across finance, business systems, and process automation. Skilled in financial modeling, SAP analytics, and business intelligence, with a growing focus on applying machine learning and AI to enhance decision-making and automation. Holding an M.S. in Data Science, I am focused on leveraging advanced analytics to transition into a more technical data science role.*
+*Data scientist and analytics professional with a strong background in business intelligence, reporting, and data visualization, now expanding into machine learning, statistical modeling, and AI-driven automation. Experienced in financial modeling, SAP analytics, and business systems, with growing expertise in ML model development, statistics, and deployment pipelines. Holding an M.S. in Data Science, I’m focused on bridging analytics and data science to drive better decision-making and automation.*
 
 ---
 ### Professional Profile
 
-#### Expertise
-- **Forecasting & Financial Modeling:** Advanced predictive techniques for revenue, expense, and KPI forecasting.
-- **Data Engineering & Pipelines:** Scalable workflows for data processing, transformation, and integration into ML models.
-- **Data Visualization:** Insightful reporting with Tableau, Power BI, Matplotlib, and SAP Analytics Cloud.
+#### **Expertise**
+- **Forecasting & Financial Modeling:** Predictive techniques for revenue, expense, and KPI forecasting.  
+- **Machine Learning & Statistical Analysis:** Model development, feature engineering, and evaluation for decision-making.  
+- **Data Engineering & Pipelines:** Scalable workflows for data processing, transformation, and ML integration.  
+- **Data Visualization & Business Intelligence:** Reporting and insights using Tableau, Power BI, Matplotlib, and SAP Analytics Cloud.  
 
-#### Technical Skills
-- **Programming & Analysis:** Python, SQL, R, VBA
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Visualization & Reporting:** Tableau, Power BI, Matplotlib, Seaborn, SAP Analytics Cloud
-- **Tools & Platforms:** Jupyter, VS Code, Conda, Git
-- **Enterprise Systems:** SAP (FICO, BO), Salesforce
+#### **Technical Skills**
+- **Programming & Analysis:** Python, SQL, R, VBA  
+- **Machine Learning & AI:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- **Data Processing & Automation:** ETL workflows, data pipelines, CI/CD for model deployment  
+- **Visualization & Reporting:** Tableau, Power BI, Matplotlib, Seaborn, SAP Analytics Cloud  
+- **Tools & Platforms:** Jupyter, VS Code, Conda, Git, Docker  
+- **Enterprise Systems:** SAP (FICO, BO), Salesforce  
 
 #### Education & Certifications
 - **M.S. Data Science** – Loyola University Maryland
